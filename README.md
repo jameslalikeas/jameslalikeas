@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm James 👋
 
-<!--
-**jameslalikeas/jameslalikeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring data and analytics professional with a Finance background, focused on applying descriptive analytics within hockey and sports environments.
 
-Here are some ideas to get you started:
+## 🔍 What I’m Working On
+- Building **ACCUDEV**, a player-first hockey development platform focused on long-term development and qualitative insight
+- Developing foundational skills in **SQL**, **Python**, and **data modeling**
+- Learning how to design clean data workflows to support descriptive and diagnostic analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- SQL, Excel (data analysis & modeling)
+- Python (introductory; data analysis workflows)
+- HTML, CSS
+- Git & GitHub
+
+## 🏒 Interests
+- Hockey development & performance analysis
+- Athlete development systems
+- Sports data & analytics
+- Endurance training and fitness
+
+
+
