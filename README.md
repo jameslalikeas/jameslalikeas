@@ -17,7 +17,6 @@ I’m an aspiring data and analytics professional with a Finance background, foc
 - Hockey development & performance analysis
 - Athlete development systems
 - Sports data & analytics
-- Endurance training and fitness
 
 
 
